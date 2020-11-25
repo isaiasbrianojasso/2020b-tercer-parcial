@@ -12,7 +12,8 @@ public class LicensePlateRepository {
 
     static {
         regionByState.put("SON", Region.NORTH);
-        regionByState.put("CHH", Region.NORTH);
+        regionByState.put("VER", Region.EAST);
+        regionByState.put("SIN", Region.WEST);
         regionByState.put("SLP", Region.CENTER);
         regionByState.put("MIC", Region.SOUTH);
     }
